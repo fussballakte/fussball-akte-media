@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="640" viewBox="0 0 600 640"><defs><clipPath id="c"><path d="M150 40 L230 10 Q300 60 370 10 L450 40 L590 150 L520 260 L470 225 L470 620 L130 620 L130 225 L80 260 L10 150 Z"/></clipPath>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#000" stop-opacity=".28"/><stop offset=".25" stop-color="#000" stop-opacity="0"/><stop offset=".75" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".28"/></linearGradient></defs>
+<g clip-path="url(#c)"><path d="M150 40 L230 10 Q300 60 370 10 L450 40 L590 150 L520 260 L470 225 L470 620 L130 620 L130 225 L80 260 L10 150 Z" fill="#da291c"/><rect width="600" height="640" fill="url(#s)"/>
+<text x="300" y="175" text-anchor="middle" font-family="Inter Display" font-weight="900" font-size="54" letter-spacing="4" fill="#ffffff">RONALDO</text>
+<text x="300" y="470" text-anchor="middle" font-family="Inter Display" font-weight="900" font-size="300" fill="#ffffff">7</text></g>
+<path d="M150 40 L230 10 Q300 60 370 10 L450 40 L590 150 L520 260 L470 225 L470 620 L130 620 L130 225 L80 260 L10 150 Z" fill="none" stroke="#000" stroke-opacity=".35" stroke-width="6" stroke-linejoin="round"/><path d="M230 10 Q300 60 370 10" fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="12"/></svg>
